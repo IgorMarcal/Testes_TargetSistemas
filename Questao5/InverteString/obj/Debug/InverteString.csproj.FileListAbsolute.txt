@@ -1,0 +1,8 @@
+C:\Users\igor5\source\repos\InverteString\bin\Debug\InverteString.exe.config
+C:\Users\igor5\source\repos\InverteString\bin\Debug\InverteString.exe
+C:\Users\igor5\source\repos\InverteString\bin\Debug\InverteString.pdb
+C:\Users\igor5\source\repos\InverteString\obj\Debug\InverteString.csproj.AssemblyReference.cache
+C:\Users\igor5\source\repos\InverteString\obj\Debug\InverteString.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor5\source\repos\InverteString\obj\Debug\InverteString.csproj.CoreCompileInputs.cache
+C:\Users\igor5\source\repos\InverteString\obj\Debug\InverteString.exe
+C:\Users\igor5\source\repos\InverteString\obj\Debug\InverteString.pdb
